@@ -1,5 +1,5 @@
-# bazel_py_minimal_bug_reproduction
-reproduces a defect where non declared code is executed
+# bazel_python_import
+reproduces behaviour where non declared code is executed
 
 The code has the following structure:
 ```
